@@ -1,18 +1,16 @@
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=Senior+MERN+Stack+Developer;Tech+Agency+Founder+%26+CEO;Digital+Transformation+Architect;Full-Cycle+Software+Solutions" alt="Professional Headline" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=60&lines=Senior+MERN+Stack+Developer;Tech+Agency+Founder+%26+CEO;Digital+Transformation+Architect;Full-Cycle+Software+Solutions" alt="Professional Headline" />
 </div>
 
 <div align="center">
   <!-- Profile View Counter -->
-
+  <img src="https://komarev.com/ghpvc/?username=AhmadIshfaqDogar&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
   
   <!-- Social Links -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-FF6B00?style=flat-square&logo=google-chrome)](https://yourportfolio.com)
-  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat-square&logo=gmail)](mailto:youremail@example.com)
-  [![Calendly](https://img.shields.io/badge/Schedule-Call-006BFF?style=flat-square&logo=calendly)](https://calendly.com/YOUR_PROFILE)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Work-FF6B00?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
+  [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail)](mailto:youremail@example.com)
+  [![Calendly](https://img.shields.io/badge/Schedule-Call-006BFF?style=for-the-badge&logo=calendly)](https://calendly.com/YOUR_PROFILE)
 </div>
 
 ---
@@ -20,8 +18,8 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+  <a href="https://github.com/AhmadIshfaqDogar">
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmadIshfaqDogar&theme=onedark&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -58,4 +56,16 @@
 
 ---
 
+## 📊 Performance Tracking
 
+<div align="center">
+  
+### 🚀 Development Velocity
+```mermaid
+pie showData
+    title Monthly Contribution Distribution
+    "React Components" : 35
+    "API Development" : 25
+    "Database Design" : 20
+    "DevOps & Testing" : 15
+    "Documentation" : 5
