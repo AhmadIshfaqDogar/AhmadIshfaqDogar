@@ -6,7 +6,7 @@
 
 <div align="center">
   <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
+
   
   <!-- Social Links -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR_PROFILE)
@@ -58,17 +58,4 @@
 
 ---
 
-## 📊 Development Analytics
 
-<div align="center">
-  
-```mermaid
-graph LR
-    A[Client Consultation] --> B[Technical Strategy]
-    B --> C[Architecture Design]
-    C --> D[Team Leadership]
-    D --> E[Agile Development]
-    E --> F[Quality Assurance]
-    F --> G[Deployment]
-    G --> H[Performance Optimization]
-    H --> I[Client Success]
