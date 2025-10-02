@@ -89,11 +89,11 @@ I'm always open to collaborating on interesting projects and contributing to ope
 - 💬 **Ask me about:** React, JavaScript, PHP, or web development
 - ⚡ **Fun fact:** I love solving complex problems with elegant solutions
 
----
+
 
 <div align="center">
 
-### ⭐️ From Ahmad (https://github.com/ahmadishfaqdogar)
+
 
 ![Visitors](https://komarev.com/ghpvc/?username=ahmadishfaqdogar&color=blue&style=flat)
 
