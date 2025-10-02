@@ -49,8 +49,12 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 </div>
 
 ## 🚀 Featured Projects
+### 🌟 GoldenPages - Business Directory Platform
+**Tech Stack:** `React` `Tailwind CSS` `PHP` `MySQL` `JavaScript` `REST API`
 
+A comprehensive business directory website that allows users to discover, review, and connect with local businesses. Features advanced search, user reviews, and business management.
 
+[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4A154B?style=for-the-badge)](https://ahmadishfaqdogar.github.io/goldenpages)
 
 ## 📈 Skills Overview
 
