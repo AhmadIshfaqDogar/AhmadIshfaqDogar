@@ -44,7 +44,7 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmadishfaqdogar&theme=radical&no-frame=true&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmadishfaqdogar&theme=radical&no-frame=true&row=1&column=2)
 
 </div>
 
