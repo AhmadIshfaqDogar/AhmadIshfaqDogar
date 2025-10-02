@@ -32,11 +32,11 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 <div align="center">
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadishfaqdogar&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadishfaqdogar&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadishfaqdogar&theme=radical)
 
 </div>
 
@@ -44,35 +44,13 @@ I'm a passionate Full Stack Developer with expertise in modern web technologies.
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&row=2&column=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahmadishfaqdogar&theme=radical&no-frame=true&row=2&column=4)
 
 </div>
 
 ## 🚀 Featured Projects
 
-### 🔥 E-Commerce Platform
-**Tech:** `React` `Tailwind CSS` `PHP` `MySQL` `JavaScript`
 
-A full-featured e-commerce platform with user authentication, product management, and payment integration.
-
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4A154B?style=for-the-badge)](https://your-demo-link.com)
-[![View Code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/ecommerce-platform)
-
-### 💼 Task Management App
-**Tech:** `React` `JavaScript` `Tailwind CSS` `PHP`
-
-A collaborative task management application with real-time updates and team collaboration features.
-
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4A154B?style=for-the-badge)](https://your-demo-link.com)
-[![View Code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/task-manager)
-
-### 🌐 Portfolio Website
-**Tech:** `HTML5` `CSS3` `JavaScript` `PHP` `Tailwind CSS`
-
-A responsive portfolio website with smooth animations and interactive elements.
-
-[![Live Demo](https://img.shields.io/badge/LIVE_DEMO-4A154B?style=for-the-badge)](https://your-demo-link.com)
-[![View Code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername/portfolio)
 
 ## 📈 Skills Overview
 
@@ -88,20 +66,12 @@ A responsive portfolio website with smooth animations and interactive elements.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@domain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadishfaqdogar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.ahmadishfaqdogar@gmail.com)
 
 </div>
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications](https://yourblog.com/post1)
-- [Mastering Tailwind CSS](https://yourblog.com/post2)
-- [PHP Best Practices](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Collaborate
 
@@ -119,9 +89,9 @@ I'm always open to collaborating on interesting projects and contributing to ope
 
 <div align="center">
 
-### ⭐️ From [Your Name](https://github.com/yourusername)
+### ⭐️ From Ahmad (https://github.com/ahmadishfaqdogar)
 
-![Visitors](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat)
+![Visitors](https://komarev.com/ghpvc/?username=ahmadishfaqdogar&color=blue&style=flat)
 
 **Thanks for visiting!** ✨
 
